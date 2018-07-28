@@ -11,7 +11,7 @@ Mac Installation Guide to run IQ-jupyter-notebook
 
   Git clone; or download via the button on the right and unzip the zip file. 
 
-### Step 6: Open jupyter notebook
+### Step 4: Open jupyter notebook
 
   ```
   jupyter notebook
