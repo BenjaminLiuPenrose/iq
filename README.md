@@ -1,11 +1,5 @@
 # IQ
-Mac Installation Guide to run IQ-ipython-notebook
-
-### System Requirements
-Make sure your system meets these requirements:
-  - Operating system: MacOS 10.7 10.8 10.9 10.10 (it has been tested successfully on these)
-  - RAM: 2GB.
-  - Disk space: 2GB
+Mac Installation Guide to run IQ-jupyter-notebook
 
 ### Step 1: Install Command Line Tools
   - Open terminal, type “xcode-select --install” in terminal (without quotes)
